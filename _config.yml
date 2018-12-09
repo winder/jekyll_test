@@ -1,0 +1,10 @@
+title : Jekyll Bootstrap
+tagline: Site Tagline
+author :
+	  name : Name Lastname
+	  email : blah@email.test
+	  github : username
+	  twitter : username
+	  feedburner : feedname
+
+markdown: kramdown
